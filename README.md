@@ -10,7 +10,7 @@ I'm currently fiddling with:
 
 - :computer: [blockchains](https://www.kiln.fi/)
 - :camera: [photography](https://detours.sbrk.org/)
-- :hammer: [audio engineering](https://blz.sbrk.org/)
+- :hammer: [audio engineering](https://soir.dev/)
 - :musical_note: [music](https://soundcloud.com/camembert-au-lait-crew)
 
 ### Public Contributions
