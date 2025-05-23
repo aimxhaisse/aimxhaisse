@@ -9,7 +9,6 @@ I'm Sébastien Rannou ([@mxs](https://mxs.sbrk.org/)), yet another human being i
 I'm currently fiddling with:
 
 - :computer: [blockchains](https://www.kiln.fi/)
-- :musical_score: [decentralized generative art](https://maethstro.com/)
 - :camera: [photography](https://detours.sbrk.org/)
 - :hammer: [audio engineering](https://blz.sbrk.org/)
 - :musical_note: [music](https://soundcloud.com/camembert-au-lait-crew)
