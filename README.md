@@ -8,7 +8,6 @@ I'm Sébastien Rannou ([@mxs](https://mxs.sbrk.org/)), yet another human being i
 
 I'm currently fiddling with:
 
-- :computer: [blockchains](https://www.kiln.fi/)
 - :camera: [photography](https://detours.sbrk.org/)
 - :hammer: [audio engineering](https://soir.dev/)
 - :musical_note: [music](https://soundcloud.com/camembert-au-lait-crew)
@@ -21,5 +20,3 @@ I'm currently fiddling with:
 
 - [Twitter](https://twitter.com/aimxhaisse)
 - Telegram *@aimxhaisse* 
-- Discord *@mxs#5437*
-- Mail mxs@sbrk.org
